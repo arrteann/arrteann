@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Mobile development<br>💬 Ask me about my inside world<br>
+🌱 I’m currently learning Mobile Development and Software Architecture<br>💬 Ask me about my thoughts<br>
 
 
 ## 🌐 Socials:
