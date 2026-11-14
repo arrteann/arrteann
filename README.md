@@ -1,16 +1,39 @@
-# 💫 About Me:
-🌱 I’m currently learning Mobile Development and Software Architecture<br>💬 Ask me about my thoughts<br>
+# Artean Ghafary
 
+**Software Architect · Security & AppSec Specialist · AI Systems Engineer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arrteann) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arrteann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+Designing resilient, security-first systems and AI/MCP tooling — from hexagonal domain architectures and double-entry financial ledgers to reverse-engineering pipelines and hybrid RAG servers.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arrteann&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Core Focus
+
+- **Software Architecture:** Modular Monolith, Hexagonal Architecture, Domain Modeling, State Machines, Double-Entry Accounting, Outbox Pattern, Monorepos (Turborepo)
+- **Security & Reverse Engineering:** Code Security Audits, OWASP, Secure API & RBAC Design, Mobile Pentesting (JADX, MobSF), Open-Source Contributor to [`skylot/jadx`](https://github.com/skylot/jadx)
+- **AI Engineering & Tooling:** Model Context Protocol (MCP) Servers, Hybrid RAG (FAISS + BM25 + RRF), Autonomous Agentic Workflows, AI SDK & LLM Systems
+
+---
+
+### Highlighted Open Source
+
+- **[`jadx-mcp`](https://github.com/arrteann/jadx-mcp)** — Ultra-lightweight, zero-dependency MCP server plugin for JADX (`Java`)
+- **[`singbox-mcp`](https://github.com/arrteann/singbox-mcp)** — Local RAG MCP server with section-aware chunking and hybrid retrieval (FAISS + BM25 + Reciprocal Rank Fusion) (`Python`)
+- **[`skylot/jadx`](https://github.com/skylot/jadx/pulls?q=is%3Apr+author%3Aarrteann)** — Open-source contributor (6+ merged PRs on performance & tooling)
+
+---
+
+### Technical Stack
+
+`TypeScript` · `Node.js` · `Bun` · `Hono` · `Next.js` · `PostgreSQL` · `MySQL` · `Drizzle ORM` · `Docker` · `Playwright` · `Vitest` · `Java` · `Python` · `Rust` · `OWASP` · `JADX` · `MobSF`
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artean)
+[![Website](https://img.shields.io/badge/Blog-artytecture.blog-111111?style=flat-square)](https://artytecture.blog)
+[![Email](https://img.shields.io/badge/Email-artindev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:artindev@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arrteann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
